@@ -11,9 +11,9 @@ Features :
 5. Persistent Data: Data is saved locally in the browser for persistent tracking.
 
 Technologies Used :
-HTML5 – Structure of the web app.
-CSS3 – Styling and responsive design.
-JavaScript (ES6) – Dynamic functionality and localStorage handling.
+1. HTML5 – Structure of the web app.
+2. CSS3 – Styling and responsive design.
+3. JavaScript (ES6) – Dynamic functionality and localStorage handling.
 
 Installation / Usage :
 1. Clone the repository: "git clone <your-repo-link>"
