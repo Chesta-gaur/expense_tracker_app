@@ -16,7 +16,7 @@ Technologies Used :
 3. JavaScript (ES6) – Dynamic functionality and localStorage handling.
 
 Installation / Usage :
-1. Clone the repository: "git clone <your-repo-link>"
+1. Clone the repository: "git clone <https://github.com/Chesta-gaur/expense_tracker_app.git>"
 2. Open index.html in your browser.
 3. Start adding transactions and track your finances instantly.
 
